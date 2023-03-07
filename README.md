@@ -73,6 +73,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurikDen&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-<div align="center"><img src="https://cdn.dribbble.com/users/63485/screenshots/11339668/media/57d96ce6efcf40c7320b93173ca8c4dc.gif" height="200" /></div>
-
 </div>
