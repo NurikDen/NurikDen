@@ -4,7 +4,7 @@
 <tr>
 <td valign="center" width="100%">
     <div align="center">
-        <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300" />
+        <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" align="center" width="300" />
         <p style="font-size: large">I'm Nurik, Unity,Android developer 👨‍💻</p>
         <p style="font-size: medium">I started learning Python 1 year ago. I am learning Java,C# and Kotlin now. Here I will send my projects and ideas 🚀</p>
        </a>
