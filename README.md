@@ -5,8 +5,8 @@
 <td valign="center" width="100%">
     <div align="center">
         <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" align="center" width="300" />
-        <p style="font-size: large">I'm Nurik, Unity,Android developer 👨‍💻</p>
-        <p style="font-size: medium">I started learning Python 2 years ago. I am learning Java,C# and Kotlin now. Here I will send my projects and ideas 🚀</p>
+        <p style="font-size: large">I'm Nurik. I'm CEO of An object (Company) 👨‍💻</p>
+        <p style="font-size: medium">Here I will send our projects and ideas 🚀</p>
        </a>
         <h3>Contact me</h3>
         <a href="https://github.com/NurikDen" target="_blank">
