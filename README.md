@@ -71,7 +71,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NurikDen&bg_color=12,000000,0c3602&title_color=fff&text_color=fff&exclude_repo=github-readme-stats,NurikDen.github.io%22%20height=%22150%22%20alt=%22stats%20graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NurikDen&langs_count=6&layout=pie&bg_color=12,000000,0c3602&title_color=fff&text_color=fff" height="300"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NurikDen&bg_color=12,000000,0c3602&title_color=fff&text_color=fff" height="150" alt="languages graph"  />
 </div>
 
